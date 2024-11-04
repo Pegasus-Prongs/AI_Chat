@@ -1,7 +1,7 @@
 // Metadata.tsx
 export const metadata = {
-  title: "UNMS",
-  description: "unms app",
+  title: "AI Chat",
+  description: "AI Chat App",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
